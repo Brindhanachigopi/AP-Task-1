@@ -32,6 +32,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                     setTimeout(function () {
                       countdownDisplay.textContent = "1";
+                      
                       setTimeout(function () {
                         countdownDisplay.textContent = "";
 
